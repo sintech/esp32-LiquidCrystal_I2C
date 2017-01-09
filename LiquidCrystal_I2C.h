@@ -1,4 +1,3 @@
-//YWROBOT
 #ifndef LiquidCrystal_I2C_h
 #define LiquidCrystal_I2C_h
 #include "driver/i2c.h"

@@ -2,8 +2,8 @@
 For LCDs based on HD44780 + PCF8574 I2C extender chip. 
 
 ## Usage ##
-Include library in your code and change I2C addr, SDA and SCL pins to yours.
+Include library in your code and change I2C addr, SDA and SCL GPIO numbers.
 
 
 ---
-This project is based on https://github.com/Vendict/STM32_LCD_I2C
+This project is based on https://github.com/Vendict/STM32_LCD_I2C and Arduino http://playground.arduino.cc/Code/LCDAPI
